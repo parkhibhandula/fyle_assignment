@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+/*PART 1*/
+#left{
+margin-top: 112px;
+margin-left: 176px;
+width: 614px;
+height: 140px;
+}
+#one h6{
+    color: #FF3147;
+    font-size: 20px;
+}
+#one h2{
+    font-weight: bold;
+    font-size: 50px;
+}
+#one h5{
+    font-size: 16px;
+    margin: 20px 0 20px 0;
+}
+#one img{
+    margin: 100px 20px 100px 0;
+    height: 500px;
+    width:300px;
+}
+/*BUTTON*/
+#contact{
+background-color: #FF3147;
+color: white;
+padding: 2px;
+border:none;
+}
+/* PART2 */
+.part2 h4{
+    font-size: 35px;
+    font-weight: bold;   
+}
+#t-1{
+    margin:100px 196px 100px 196px;
+}
+.part2{
+    background-color: #FAFAFA;
+}
+#three img{
+    height:400px;
+    width:280px;
+}
+#three{
+    margin: 0 40px 40px 40px;
+}
+.web{
+    padding-top: 100px;
+    color: white;
+    text-align: center;
+    height:400px;
+    width:280px;
+    background-color: #FF3147;
+}
+.wimg{
+    height: 50px;
+    width: 50px;
+    margin-left: 40%;
+    background-image: url(/assets/icon.svg);
+    background-size: contain;
+}
+.web h6{
+    font-size: 14px;
+    color: white;
+    margin: 10px;
+    margin-bottom: 30px;
+}
+.web button{
+    background-color: white;
+    color: #FF3147;
+    border: none;
+    padding: 2px;
+}
+.circle{
+    display: flex;
+    height:30px;
+    width: 30px;
+    background-image: url(/assets/1\ \(1\).svg);
+    background-size: contain;
+    margin-top: 10px;
+}
+/* PART3 */
+.part3,.part4{
+    margin-top: 50px;
+}
+.part3 .row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.icon{
+    height:50px;
+    width: 50px;
+    margin:10px;
+}
+#part4{
+    display: flex;
+    justify-content: space-evenly;
+}
+.part4 .col-md-4 .row{
+    height: 33%;
+}
+/* part5 */
+.part5 .row{
+    display: flex;
+    justify-content: space-evenly;
+}
+.part5 .row .col-md-2{
+    background-color: white;
+    width: 15%;
+    text-align: center;
+    padding: 10px;
+}
+.part5 .row .col-md-2:hover{
+    box-shadow: 5px 3px 14px 0px;
+}
+.part5{
+    background-color: #FAFAFA;
+    padding: 100px 0 100px 0;
+    margin-top: 100px;
+}
+.contain{
+    display: flex;
+    margin: 0 200px 0 200px;
+}
+.part6{
+    padding: 100px 0 100px 0;
+}
+.part7{
+background-color: #FF3147;
+}
